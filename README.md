@@ -3,7 +3,7 @@
 
 ## 当前节目预告
 
-+ 2020-2-14 录播
++ 2020-2-21 录播
 
 ## 节目相关资源
 
@@ -15,6 +15,7 @@
 
 |序号|日期|标题|视频和讲义|
 |---|---|---|---|
+|6|2020-2-14|战疫情，Microsoft Teams 实用技巧和资源【录播】|<https://aka.ms/teamsfriday-6>|
 |5|2020-2-7|Microsoft Teams 团队模板原理和应用【录播】|<https://aka.ms/teamsfriday-5>|
 |4|2020-1-31|通过Powershell 进行Microsoft Teams自动化【录播】|<https://aka.ms/teamsfriday-4>|
 |3|2020-1-24|Microsoft Teams 使用情况统计报表【录播】|<https://aka.ms/teamsfriday-3>|
