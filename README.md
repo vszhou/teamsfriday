@@ -3,7 +3,8 @@
 
 ## 当前节目预告
 
-+ 2020-2-21 录播
++ 2020-2-28 录播 
+> 疫情期间，全部录播，祝大家健康平安
 
 ## 节目相关资源
 
@@ -15,6 +16,7 @@
 
 |序号|日期|标题|视频和讲义|
 |---|---|---|---|
+|7|2020-2-21|Microsoft Teams中的deeplink技术和应用场景【录播】|<https://aka.ms/teamsfriday-7>|
 |6|2020-2-14|战疫情，Microsoft Teams 实用技巧和资源【录播】|<https://aka.ms/teamsfriday-6>|
 |5|2020-2-7|Microsoft Teams 团队模板原理和应用【录播】|<https://aka.ms/teamsfriday-5>|
 |4|2020-1-31|通过Powershell 进行Microsoft Teams自动化【录播】|<https://aka.ms/teamsfriday-4>|
