@@ -16,6 +16,7 @@
 
 |序号|日期|标题|视频和讲义|嘉宾
 |---|---|---|---|---|
+|11|2020-3-20|收集Teams logs 以便进行问题诊断和排查【录播】|<https://aka.ms/teamsfriday-11>|Ash Hu (Microsoft)|
 |10|2020-3-13|Microsoft Teams 工作台-打造更佳工作体验【录播】|<https://aka.ms/teamsfriday-10>|Ares Chen (Microsoft)|
 |9|2020-3-6|Microsoft Teams 架构解析（1）-文件存储【录播】|<https://aka.ms/teamsfriday-9>|Ares Chen (Microsoft)|
 |8|2020-2-28|Microsoft Teams 在客户服务场景下的应用【录播】|<https://aka.ms/teamsfriday-8>|Zuojun Chai (Microsoft)|
