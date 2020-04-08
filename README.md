@@ -3,7 +3,7 @@
 
 ## 当前节目预告
 
-+ 2020-4-3 录播 
++ 2020-4-10 录播 
 > 疫情期间，全部录播，祝大家健康平安
 
 ## 节目相关资源
@@ -16,6 +16,7 @@
 
 |序号|日期|标题|视频和讲义|嘉宾
 |---|---|---|---|---|
+|13|2020-4-3|PowerAutomate与Microsoft Teams结合的典型场景【录播】|<https://aka.ms/teamsfriday-13>|Ares Chen (Microsoft)|
 |12|2020-3-27|PowerApps与Microsoft Teams的三种集成方式【录播】|<https://aka.ms/teamsfriday-12>|Ares Chen (Microsoft)|
 |11|2020-3-20|收集Teams logs 以便进行问题诊断和排查【录播】|<https://aka.ms/teamsfriday-11>|Ash Hu (Microsoft)|
 |10|2020-3-13|Microsoft Teams 工作台-打造更佳工作体验【录播】|<https://aka.ms/teamsfriday-10>|Ares Chen (Microsoft)|
