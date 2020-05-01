@@ -3,7 +3,7 @@
 
 ## 当前节目预告
 
-+ 2020-5-1 录播 
++ 2020-5-8 录播 
 > 疫情期间，全部录播，祝大家健康平安
 
 ## 节目相关资源
@@ -16,6 +16,7 @@
 
 |序号|日期|标题|视频和讲义|嘉宾
 |---|---|---|---|---|
+|17|2020-5-1|疫情之下三个月工作杂记与随想【录播】|<https://aka.ms/teamsfriday-17>|Ares Chen (Microsoft)|
 |16|2020-4-24|巧用Microsoft Teams中的快捷方式【录播】|<https://aka.ms/teamsfriday-16>|Ares Chen (Microsoft)|
 |15|2020-4-17|Power virtual agent 开发机器人并用于Microsoft Teams【录播】|<https://aka.ms/teamsfriday-15>|Ares Chen (Microsoft)|
 |14|2020-4-10|PowerBI在Microsoft Teams中的应用【录播】|<https://aka.ms/teamsfriday-14>|Ares Chen (Microsoft)|
